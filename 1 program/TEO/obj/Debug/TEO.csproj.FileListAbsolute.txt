@@ -1,0 +1,40 @@
+D:\VSCode\TEO\TEO\obj\Debug\TEO.csproj.AssemblyReference.cache
+D:\VSCode\TEO\TEO\obj\Debug\TEO.Properties.Resources.resources
+D:\VSCode\TEO\TEO\obj\Debug\TEO.csproj.GenerateResource.cache
+D:\VSCode\TEO\TEO\obj\Debug\TEO.csproj.CoreCompileInputs.cache
+D:\VSCode\TEO\TEO\bin\Debug\TEO.exe.config
+D:\VSCode\TEO\TEO\bin\Debug\TEO.exe
+D:\VSCode\TEO\TEO\bin\Debug\TEO.pdb
+D:\VSCode\TEO\TEO\obj\Debug\TEO.exe
+D:\VSCode\TEO\TEO\obj\Debug\TEO.pdb
+D:\VSCode\TEO\TEO\obj\Debug\TEO.TEO.resources
+D:\VSCode\TEO\TEO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VSCode\TEO\TEO\obj\Debug\TEO.csproj.Fody.CopyLocal.cache
+D:\VSCode\TEO\TEO\obj\Debug\TEO.csproj.CopyComplete
+C:\Users\danil\OneDrive\Рабочий стол\software_evaluation-main\TEO\TEO\bin\Debug\TEO.exe.config
+C:\Users\danil\OneDrive\Рабочий стол\software_evaluation-main\TEO\TEO\bin\Debug\TEO.exe
+C:\Users\danil\OneDrive\Рабочий стол\software_evaluation-main\TEO\TEO\bin\Debug\TEO.pdb
+C:\Users\danil\OneDrive\Рабочий стол\software_evaluation-main\TEO\TEO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\danil\OneDrive\Рабочий стол\software_evaluation-main\TEO\TEO\obj\Debug\TEO.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\software_evaluation-main\TEO\TEO\obj\Debug\TEO.TEO.resources
+C:\Users\danil\OneDrive\Рабочий стол\software_evaluation-main\TEO\TEO\obj\Debug\TEO.Properties.Resources.resources
+C:\Users\danil\OneDrive\Рабочий стол\software_evaluation-main\TEO\TEO\obj\Debug\TEO.csproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Рабочий стол\software_evaluation-main\TEO\TEO\obj\Debug\TEO.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\software_evaluation-main\TEO\TEO\obj\Debug\TEO.csproj.Fody.CopyLocal.cache
+C:\Users\danil\OneDrive\Рабочий стол\software_evaluation-main\TEO\TEO\obj\Debug\TEO.csproj.Up2Date
+C:\Users\danil\OneDrive\Рабочий стол\software_evaluation-main\TEO\TEO\obj\Debug\TEO.exe
+C:\Users\danil\OneDrive\Рабочий стол\software_evaluation-main\TEO\TEO\obj\Debug\TEO.pdb
+C:\Users\ZXC\source\repos\TEO\TEO\bin\Debug\TEO.exe.config
+C:\Users\ZXC\source\repos\TEO\TEO\bin\Debug\TEO.exe
+C:\Users\ZXC\source\repos\TEO\TEO\bin\Debug\TEO.pdb
+C:\Users\ZXC\source\repos\TEO\TEO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ZXC\source\repos\TEO\TEO\obj\Debug\TEO.csproj.AssemblyReference.cache
+C:\Users\ZXC\source\repos\TEO\TEO\obj\Debug\TEO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZXC\source\repos\TEO\TEO\obj\Debug\TEO.TEO.resources
+C:\Users\ZXC\source\repos\TEO\TEO\obj\Debug\TEO.Properties.Resources.resources
+C:\Users\ZXC\source\repos\TEO\TEO\obj\Debug\TEO.csproj.GenerateResource.cache
+C:\Users\ZXC\source\repos\TEO\TEO\obj\Debug\TEO.csproj.CoreCompileInputs.cache
+C:\Users\ZXC\source\repos\TEO\TEO\obj\Debug\TEO.csproj.Fody.CopyLocal.cache
+C:\Users\ZXC\source\repos\TEO\TEO\obj\Debug\TEO.csproj.CopyComplete
+C:\Users\ZXC\source\repos\TEO\TEO\obj\Debug\TEO.exe
+C:\Users\ZXC\source\repos\TEO\TEO\obj\Debug\TEO.pdb
